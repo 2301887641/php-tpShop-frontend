@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/www.jd.com/!svn/ver/10
+END
+composer.json
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/www.jd.com/!svn/ver/1/composer.json
+END
+.htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/www.jd.com/!svn/ver/1/.htaccess
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/www.jd.com/!svn/ver/1/README.md
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/www.jd.com/!svn/ver/4/index.php
+END

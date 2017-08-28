@@ -1,0 +1,5 @@
+<?php
+$cu=curl_init("https://www.baidu.com");
+curl_exec($cu);
+curl_close($cu);		
+?>

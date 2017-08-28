@@ -1,0 +1,27 @@
+[ 2015-07-15T21:45:47+08:00 ] 127.0.0.1 /
+ERR: Think\Model:get_goods_by_recname方法不存在！
+
+[ 2015-07-15T21:47:40+08:00 ] 127.0.0.1 /
+ERR: Think\Model:get_goods_by_recname方法不存在！
+
+[ 2015-07-15T21:47:41+08:00 ] 127.0.0.1 /
+ERR: Think\Model:get_goods_by_recname方法不存在！
+
+[ 2015-07-15T21:47:41+08:00 ] 127.0.0.1 /
+ERR: Think\Model:get_goods_by_recname方法不存在！
+
+[ 2015-07-15T21:47:42+08:00 ] 127.0.0.1 /
+ERR: Think\Model:get_goods_by_recname方法不存在！
+
+[ 2015-07-15T21:47:42+08:00 ] 127.0.0.1 /
+ERR: Think\Model:get_goods_by_recname方法不存在！
+
+[ 2015-07-15T21:47:42+08:00 ] 127.0.0.1 /
+ERR: Think\Model:get_goods_by_recname方法不存在！
+
+[ 2015-07-15T21:47:43+08:00 ] 127.0.0.1 /
+ERR: Think\Model:get_goods_by_recname方法不存在！
+
+[ 2015-07-15T21:48:03+08:00 ] 127.0.0.1 /
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'shop_price,mid_logo sh_goods where id in(select goods_id from sh_recommend_item ' at line 1
+

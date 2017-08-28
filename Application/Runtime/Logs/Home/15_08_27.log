@@ -1,0 +1,208 @@
+[ 2015-08-27T20:00:54+08:00 ] 127.0.0.1 /index.php/Home/Index/ajaxChkLogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `sh_article_cat` [ RunTime:0.0313s ]
+SQL: SELECT * FROM `sh_article_cat`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_article` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=3 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=2 )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_buttons` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_buttons`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_shop_config` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_shop_config`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_category` [ RunTime:0.0313s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=0 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=45 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=46 )  [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=50 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=51 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=44 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=47 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=53 )  [ RunTime:0.0000s ]
+NOTIC: [8] Array to string conversion D:\phpStudy\WWW\www.jd.com\Application\Layout\Controller\LayoutController.class.php 第 36 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-08-27T20:42:28+08:00 ] 127.0.0.1 /Home/Index/forgetpassword
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE ( id=19 )' at line 1
+
+[ 2015-08-27T20:43:06+08:00 ] 127.0.0.1 /Home/Index/forgetpassword
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE ( id="19" )' at line 1
+
+[ 2015-08-27T20:57:03+08:00 ] 127.0.0.1 /index.php/Home/Index/change_password/email_chk_str/d22c08288261157d854a9231c6088488
+ERR: 模板不存在:./Application/Home/View/Index/change_password.html
+
+[ 2015-08-27T21:03:16+08:00 ] 127.0.0.1 /index.php/Home/Index/change_password/email_chk_str/
+ERR: 参数错误或者未定义:email_chk_str
+
+[ 2015-08-27T21:03:19+08:00 ] 127.0.0.1 /index.php/Home/Index/change_password/email_chk_str
+ERR: 参数错误或者未定义:email_chk_str
+
+[ 2015-08-27T21:49:51+08:00 ] 127.0.0.1 /index.php/Home/Index/change_password/email_chk_str/d22c08288261157d854a9231c6088488
+ERR: SQLSTATE[HY000]: General error: 1300 Invalid utf8 character string: 'v\x8C'
+
+[ 2015-08-27T21:50:30+08:00 ] 127.0.0.1 /index.php/Home/Index/change_password/email_chk_str/d22c08288261157d854a9231c6088488
+ERR: SQLSTATE[HY000]: General error: 1300 Invalid utf8 character string: 'v\x8C'
+
+[ 2015-08-27T21:50:30+08:00 ] 127.0.0.1 /index.php/Home/Index/change_password/email_chk_str/d22c08288261157d854a9231c6088488
+ERR: SQLSTATE[HY000]: General error: 1300 Invalid utf8 character string: 'v\x8C'
+
+[ 2015-08-27T21:50:42+08:00 ] 127.0.0.1 /index.php/Home/Index/change_password/email_chk_str/d22c08288261157d854a9231c6088488
+ERR: SQLSTATE[HY000]: General error: 1300 Invalid utf8 character string: 'v\x8C'
+
+[ 2015-08-27T21:51:28+08:00 ] 127.0.0.1 /index.php/Home/Index/change_password/email_chk_str/d22c08288261157d854a9231c6088488
+ERR: SQLSTATE[HY000]: General error: 1300 Invalid utf8 character string: 'v\x8C'
+
+[ 2015-08-27T21:52:07+08:00 ] 127.0.0.1 /index.php/Home/Index/change_password/email_chk_str/d22c08288261157d854a9231c6088488
+ERR: SQLSTATE[HY000]: General error: 1300 Invalid utf8 character string: 'v\x8C'
+
+[ 2015-08-27T21:52:08+08:00 ] 127.0.0.1 /index.php/Home/Index/change_password/email_chk_str/d22c08288261157d854a9231c6088488
+ERR: SQLSTATE[HY000]: General error: 1300 Invalid utf8 character string: 'v\x8C'
+
+[ 2015-08-27T21:52:09+08:00 ] 127.0.0.1 /index.php/Home/Index/change_password/email_chk_str/d22c08288261157d854a9231c6088488
+ERR: SQLSTATE[HY000]: General error: 1300 Invalid utf8 character string: 'v\x8C'
+
+[ 2015-08-27T22:00:14+08:00 ] 127.0.0.1 /index.php/Home/Index/change_password/email_chk_str/d22c08288261157d854a9231c6088488
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sui' in 'where clause'
+
+[ 2015-08-27T22:13:48+08:00 ] 127.0.0.1 /index.php/Home/Index/ajaxChkLogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `sh_article_cat` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_article_cat`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_article` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=3 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=2 )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_buttons` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_buttons`  [ RunTime:0.0156s ]
+SQL: SHOW COLUMNS FROM `sh_shop_config` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_shop_config`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_category` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=0 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=45 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=46 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=50 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=51 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=44 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=47 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=53 )  [ RunTime:0.0000s ]
+NOTIC: [8] Array to string conversion D:\phpStudy\WWW\www.jd.com\Application\Layout\Controller\LayoutController.class.php 第 36 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-08-27T22:30:24+08:00 ] 127.0.0.1 /Home/Index/ajaxChkName/name/root
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015625s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015625s ]
+SQL: SHOW COLUMNS FROM `sh_article_cat` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_article_cat`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_article` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=3 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=2 )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_buttons` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_buttons`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_shop_config` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_shop_config`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_category` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=0 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=45 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=46 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=50 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=51 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=44 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=47 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=53 )  [ RunTime:0.0000s ]
+NOTIC: [8] Array to string conversion D:\phpStudy\WWW\www.jd.com\Application\Layout\Controller\LayoutController.class.php 第 36 行.
+SQL: SHOW COLUMNS FROM `sh_member` [ RunTime:0.0156s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `sh_member` WHERE ( username="root" ) LIMIT 1   [ RunTime:0.0313s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-08-27T22:30:30+08:00 ] 127.0.0.1 /Home/Index/ajaxChkEmail/email/15863549041%40126.com
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `sh_article_cat` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_article_cat`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_article` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=3 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=2 )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_buttons` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_buttons`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_shop_config` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_shop_config`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_category` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=0 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=45 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=46 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=50 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=51 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=44 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=47 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=53 )  [ RunTime:0.0000s ]
+NOTIC: [8] Array to string conversion D:\phpStudy\WWW\www.jd.com\Application\Layout\Controller\LayoutController.class.php 第 36 行.
+SQL: SHOW COLUMNS FROM `sh_member` [ RunTime:0.0156s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `sh_member` WHERE ( email="15863549041@126.com" ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-08-27T22:30:41+08:00 ] 127.0.0.1 /Home/Index/ajaxChkCode/code/wr2lb
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `sh_article_cat` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_article_cat`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_article` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=3 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=2 )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_buttons` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_buttons`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_shop_config` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_shop_config`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_category` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=0 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=45 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=46 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=50 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=51 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=44 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=47 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=53 )  [ RunTime:0.0000s ]
+NOTIC: [8] Array to string conversion D:\phpStudy\WWW\www.jd.com\Application\Layout\Controller\LayoutController.class.php 第 36 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-08-27T22:41:29+08:00 ] 127.0.0.1 /index.php/Home/Index/ajaxChkLogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015625s ]
+SQL: SHOW COLUMNS FROM `sh_article_cat` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_article_cat`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_article` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=3 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=2 )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_buttons` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_buttons`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_shop_config` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_shop_config`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_category` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=0 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=45 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=46 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=50 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=51 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=44 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=47 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=53 )  [ RunTime:0.0000s ]
+NOTIC: [8] Array to string conversion D:\phpStudy\WWW\www.jd.com\Application\Layout\Controller\LayoutController.class.php 第 36 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+

@@ -1,0 +1,1256 @@
+[ 2015-08-24T20:57:33+08:00 ] 127.0.0.1 /index.php/Home/Index/ajaxChkLogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `sh_article_cat` [ RunTime:0.4688s ]
+SQL: SELECT * FROM `sh_article_cat`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_article` [ RunTime:0.2656s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=3 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=2 )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_buttons` [ RunTime:0.0938s ]
+SQL: SELECT * FROM `sh_buttons`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_shop_config` [ RunTime:0.3438s ]
+SQL: SELECT * FROM `sh_shop_config`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_category` [ RunTime:0.1406s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=0 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=45 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=46 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=50 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=51 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=44 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=47 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=53 )  [ RunTime:0.0000s ]
+NOTIC: [8] Array to string conversion D:\phpStudy\WWW\www.jd.com\Application\Layout\Controller\LayoutController.class.php 第 36 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-08-24T20:57:49+08:00 ] 127.0.0.1 /index.php/Home/Index/ajaxChkLogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `sh_article_cat` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_article_cat`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_article` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=3 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=2 )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_buttons` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_buttons`  [ RunTime:0.0156s ]
+SQL: SHOW COLUMNS FROM `sh_shop_config` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_shop_config`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_category` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=0 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=45 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=46 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=50 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=51 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=44 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=47 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=53 )  [ RunTime:0.0000s ]
+NOTIC: [8] Array to string conversion D:\phpStudy\WWW\www.jd.com\Application\Layout\Controller\LayoutController.class.php 第 36 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-08-24T22:03:27+08:00 ] 127.0.0.1 /index.php/Home/Index/ajaxChkLogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `sh_article_cat` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_article_cat`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_article` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=3 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=2 )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_buttons` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_buttons`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_shop_config` [ RunTime:0.0313s ]
+SQL: SELECT * FROM `sh_shop_config`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_category` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=0 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=45 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=46 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=50 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=51 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=44 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=47 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=53 )  [ RunTime:0.0000s ]
+NOTIC: [8] Array to string conversion D:\phpStudy\WWW\www.jd.com\Application\Layout\Controller\LayoutController.class.php 第 36 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-08-24T22:03:29+08:00 ] 127.0.0.1 /index.php/Home/Index/ajaxChkLogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `sh_article_cat` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_article_cat`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_article` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=3 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=2 )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_buttons` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_buttons`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_shop_config` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_shop_config`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_category` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=0 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=45 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=46 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=50 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=51 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=44 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=47 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=53 )  [ RunTime:0.0000s ]
+NOTIC: [8] Array to string conversion D:\phpStudy\WWW\www.jd.com\Application\Layout\Controller\LayoutController.class.php 第 36 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-08-24T22:14:56+08:00 ] 127.0.0.1 /index.php/Home/Index/ajaxChkLogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `sh_article_cat` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_article_cat`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_article` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=3 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=2 )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_buttons` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_buttons`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_shop_config` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_shop_config`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_category` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=0 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=45 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=46 )  [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=50 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=51 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=44 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=47 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=53 )  [ RunTime:0.0000s ]
+NOTIC: [8] Array to string conversion D:\phpStudy\WWW\www.jd.com\Application\Layout\Controller\LayoutController.class.php 第 36 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-08-24T22:15:24+08:00 ] 127.0.0.1 /index.php/Home/Index/ajaxChkLogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `sh_article_cat` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_article_cat`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_article` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=3 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=2 )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_buttons` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_buttons`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_shop_config` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_shop_config`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_category` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=0 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=45 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=46 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=50 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=51 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=44 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=47 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=53 )  [ RunTime:0.0000s ]
+NOTIC: [8] Array to string conversion D:\phpStudy\WWW\www.jd.com\Application\Layout\Controller\LayoutController.class.php 第 36 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-08-24T22:15:32+08:00 ] 127.0.0.1 /index.php/Home/Index/ajaxChkLogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `sh_article_cat` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_article_cat`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_article` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=3 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=2 )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_buttons` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_buttons`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_shop_config` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_shop_config`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_category` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=0 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=45 )  [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=46 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=50 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=51 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=44 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=47 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=53 )  [ RunTime:0.0000s ]
+NOTIC: [8] Array to string conversion D:\phpStudy\WWW\www.jd.com\Application\Layout\Controller\LayoutController.class.php 第 36 行.
+NOTIC: [8] Uninitialized string offset: 5 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+NOTIC: [8] Uninitialized string offset: 6 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+NOTIC: [8] Uninitialized string offset: 7 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+NOTIC: [8] Uninitialized string offset: 5 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+NOTIC: [8] Uninitialized string offset: 6 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+NOTIC: [8] Uninitialized string offset: 7 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+SQL: SHOW COLUMNS FROM `sh_member` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_member` WHERE ( username='sui   ' ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-08-24T22:15:35+08:00 ] 127.0.0.1 /index.php/Home/Index/ajaxChkLogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `sh_article_cat` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_article_cat`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_article` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=3 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=2 )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_buttons` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_buttons`  [ RunTime:0.0156s ]
+SQL: SHOW COLUMNS FROM `sh_shop_config` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_shop_config`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_category` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=0 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=45 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=46 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=50 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=51 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=44 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=47 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=53 )  [ RunTime:0.0000s ]
+NOTIC: [8] Array to string conversion D:\phpStudy\WWW\www.jd.com\Application\Layout\Controller\LayoutController.class.php 第 36 行.
+NOTIC: [8] Uninitialized string offset: 5 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+NOTIC: [8] Uninitialized string offset: 6 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+NOTIC: [8] Uninitialized string offset: 7 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+NOTIC: [8] Uninitialized string offset: 5 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+NOTIC: [8] Uninitialized string offset: 6 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+NOTIC: [8] Uninitialized string offset: 7 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+SQL: SHOW COLUMNS FROM `sh_member` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_member` WHERE ( username='sui   ' ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-08-24T22:15:35+08:00 ] 127.0.0.1 /index.php/Home/Index/ajaxChkLogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `sh_article_cat` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_article_cat`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_article` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=3 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=2 )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_buttons` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_buttons`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_shop_config` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_shop_config`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_category` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=0 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=45 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=46 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=50 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=51 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=44 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=47 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=53 )  [ RunTime:0.0000s ]
+NOTIC: [8] Array to string conversion D:\phpStudy\WWW\www.jd.com\Application\Layout\Controller\LayoutController.class.php 第 36 行.
+NOTIC: [8] Uninitialized string offset: 5 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+NOTIC: [8] Uninitialized string offset: 6 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+NOTIC: [8] Uninitialized string offset: 7 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+NOTIC: [8] Uninitialized string offset: 5 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+NOTIC: [8] Uninitialized string offset: 6 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+NOTIC: [8] Uninitialized string offset: 7 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+SQL: SHOW COLUMNS FROM `sh_member` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_member` WHERE ( username='sui   ' ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-08-24T22:15:36+08:00 ] 127.0.0.1 /index.php/Home/Index/ajaxChkLogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `sh_article_cat` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_article_cat`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_article` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=3 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=2 )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_buttons` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_buttons`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_shop_config` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_shop_config`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_category` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=0 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=45 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=46 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=50 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=51 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=44 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=47 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=53 )  [ RunTime:0.0000s ]
+NOTIC: [8] Array to string conversion D:\phpStudy\WWW\www.jd.com\Application\Layout\Controller\LayoutController.class.php 第 36 行.
+NOTIC: [8] Uninitialized string offset: 5 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+NOTIC: [8] Uninitialized string offset: 6 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+NOTIC: [8] Uninitialized string offset: 7 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+NOTIC: [8] Uninitialized string offset: 5 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+NOTIC: [8] Uninitialized string offset: 6 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+NOTIC: [8] Uninitialized string offset: 7 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+SQL: SHOW COLUMNS FROM `sh_member` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_member` WHERE ( username='sui   ' ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-08-24T22:23:26+08:00 ] 127.0.0.1 /Home/index.php/Home/Index/ajaxChkLogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Index.php
+
+[ 2015-08-24T22:23:36+08:00 ] 127.0.0.1 /index.php/Home/Index/ajaxChkLogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `sh_article_cat` [ RunTime:0.0469s ]
+SQL: SELECT * FROM `sh_article_cat`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_article` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=3 )  [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=2 )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_buttons` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_buttons`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_shop_config` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_shop_config`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_category` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=0 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=45 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=46 )  [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=50 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=51 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=44 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=47 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=53 )  [ RunTime:0.0000s ]
+NOTIC: [8] Array to string conversion D:\phpStudy\WWW\www.jd.com\Application\Layout\Controller\LayoutController.class.php 第 36 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-08-24T22:24:05+08:00 ] 127.0.0.1 /index.php/Home/Index/ajaxChkLogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `sh_article_cat` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_article_cat`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_article` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=3 )  [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=2 )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_buttons` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_buttons`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_shop_config` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_shop_config`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_category` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=0 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=45 )  [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=46 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=50 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=51 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=44 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=47 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=53 )  [ RunTime:0.0000s ]
+NOTIC: [8] Array to string conversion D:\phpStudy\WWW\www.jd.com\Application\Layout\Controller\LayoutController.class.php 第 36 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-08-24T22:24:14+08:00 ] 127.0.0.1 /index.php/Home/Index/ajaxChkLogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `sh_article_cat` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_article_cat`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_article` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=3 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=2 )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_buttons` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_buttons`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_shop_config` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_shop_config`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_category` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=0 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=45 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=46 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=50 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=51 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=44 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=47 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=53 )  [ RunTime:0.0000s ]
+NOTIC: [8] Array to string conversion D:\phpStudy\WWW\www.jd.com\Application\Layout\Controller\LayoutController.class.php 第 36 行.
+NOTIC: [8] Uninitialized string offset: 5 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+NOTIC: [8] Uninitialized string offset: 6 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+NOTIC: [8] Uninitialized string offset: 7 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+NOTIC: [8] Uninitialized string offset: 5 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+NOTIC: [8] Uninitialized string offset: 6 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+NOTIC: [8] Uninitialized string offset: 7 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+SQL: SHOW COLUMNS FROM `sh_member` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_member` WHERE ( username='sui   ' ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-08-24T22:27:33+08:00 ] 127.0.0.1 /index.php/Home/Index/ajaxChkLogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `sh_article_cat` [ RunTime:0.0313s ]
+SQL: SELECT * FROM `sh_article_cat`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_article` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=3 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=2 )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_buttons` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_buttons`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_shop_config` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_shop_config`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_category` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=0 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=45 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=46 )  [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=50 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=51 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=44 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=47 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=53 )  [ RunTime:0.0000s ]
+NOTIC: [8] Array to string conversion D:\phpStudy\WWW\www.jd.com\Application\Layout\Controller\LayoutController.class.php 第 36 行.
+NOTIC: [8] Uninitialized string offset: 5 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+NOTIC: [8] Uninitialized string offset: 6 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+NOTIC: [8] Uninitialized string offset: 7 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+NOTIC: [8] Uninitialized string offset: 5 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+NOTIC: [8] Uninitialized string offset: 6 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+NOTIC: [8] Uninitialized string offset: 7 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+SQL: SHOW COLUMNS FROM `sh_member` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_member` WHERE ( username='sui' ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-08-24T22:28:04+08:00 ] 127.0.0.1 /index.php/Home/Index/ajaxChkLogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `sh_article_cat` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_article_cat`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_article` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=3 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=2 )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_buttons` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_buttons`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_shop_config` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_shop_config`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_category` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=0 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=45 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=46 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=50 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=51 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=44 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=47 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=53 )  [ RunTime:0.0000s ]
+NOTIC: [8] Array to string conversion D:\phpStudy\WWW\www.jd.com\Application\Layout\Controller\LayoutController.class.php 第 36 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-08-24T22:28:19+08:00 ] 127.0.0.1 /index.php/Home/Index/ajaxChkLogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `sh_article_cat` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_article_cat`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_article` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=3 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=2 )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_buttons` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_buttons`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_shop_config` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_shop_config`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_category` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=0 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=45 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=46 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=50 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=51 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=44 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=47 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=53 )  [ RunTime:0.0000s ]
+NOTIC: [8] Array to string conversion D:\phpStudy\WWW\www.jd.com\Application\Layout\Controller\LayoutController.class.php 第 36 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-08-24T22:29:28+08:00 ] 127.0.0.1 /index.php/Home/Index/ajaxChkLogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `sh_article_cat` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_article_cat`  [ RunTime:0.0156s ]
+SQL: SHOW COLUMNS FROM `sh_article` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=3 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=2 )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_buttons` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_buttons`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_shop_config` [ RunTime:0.0313s ]
+SQL: SELECT * FROM `sh_shop_config`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_category` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=0 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=45 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=46 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=50 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=51 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=44 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=47 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=53 )  [ RunTime:0.0000s ]
+NOTIC: [8] Array to string conversion D:\phpStudy\WWW\www.jd.com\Application\Layout\Controller\LayoutController.class.php 第 36 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-08-24T22:29:36+08:00 ] 127.0.0.1 /index.php/Home/Index/ajaxChkLogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `sh_article_cat` [ RunTime:0.0313s ]
+SQL: SELECT * FROM `sh_article_cat`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_article` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=3 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=2 )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_buttons` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_buttons`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_shop_config` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_shop_config`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_category` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=0 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=45 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=46 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=50 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=51 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=44 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=47 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=53 )  [ RunTime:0.0000s ]
+NOTIC: [8] Array to string conversion D:\phpStudy\WWW\www.jd.com\Application\Layout\Controller\LayoutController.class.php 第 36 行.
+SQL: SHOW COLUMNS FROM `sh_member` [ RunTime:0.0000s ]
+NOTIC: [8] Uninitialized string offset: 5 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+NOTIC: [8] Uninitialized string offset: 6 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+NOTIC: [8] Uninitialized string offset: 7 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+NOTIC: [8] Uninitialized string offset: 5 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+NOTIC: [8] Uninitialized string offset: 6 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+NOTIC: [8] Uninitialized string offset: 7 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+
+[ 2015-08-24T22:32:01+08:00 ] 127.0.0.1 /index.php/Home/Index/ajaxChkLogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `sh_article_cat` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_article_cat`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_article` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=3 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=2 )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_buttons` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_buttons`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_shop_config` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_shop_config`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_category` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=0 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=45 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=46 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=50 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=51 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=44 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=47 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=53 )  [ RunTime:0.0000s ]
+NOTIC: [8] Array to string conversion D:\phpStudy\WWW\www.jd.com\Application\Layout\Controller\LayoutController.class.php 第 36 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-08-24T22:32:21+08:00 ] 127.0.0.1 /index.php/Home/Index/ajaxChkLogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `sh_article_cat` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_article_cat`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_article` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=3 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=2 )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_buttons` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_buttons`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_shop_config` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_shop_config`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_category` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=0 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=45 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=46 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=50 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=51 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=44 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=47 )  [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=53 )  [ RunTime:0.0000s ]
+NOTIC: [8] Array to string conversion D:\phpStudy\WWW\www.jd.com\Application\Layout\Controller\LayoutController.class.php 第 36 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-08-24T22:34:51+08:00 ] 127.0.0.1 /index.php/Home/Index/ajaxChkLogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `sh_article_cat` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_article_cat`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_article` [ RunTime:0.0313s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=3 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=2 )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_buttons` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_buttons`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_shop_config` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_shop_config`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_category` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=0 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=45 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=46 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=50 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=51 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=44 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=47 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=53 )  [ RunTime:0.0000s ]
+NOTIC: [8] Array to string conversion D:\phpStudy\WWW\www.jd.com\Application\Layout\Controller\LayoutController.class.php 第 36 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-08-24T22:35:17+08:00 ] 127.0.0.1 /index.php/Home/Index/ajaxChkLogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `sh_article_cat` [ RunTime:0.0313s ]
+SQL: SELECT * FROM `sh_article_cat`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_article` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=3 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=2 )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_buttons` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_buttons`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_shop_config` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_shop_config`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_category` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=0 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=45 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=46 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=50 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=51 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=44 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=47 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=53 )  [ RunTime:0.0000s ]
+NOTIC: [8] Array to string conversion D:\phpStudy\WWW\www.jd.com\Application\Layout\Controller\LayoutController.class.php 第 36 行.
+SQL: SHOW COLUMNS FROM `sh_member` [ RunTime:0.0156s ]
+NOTIC: [8] Uninitialized string offset: 5 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+NOTIC: [8] Uninitialized string offset: 6 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+NOTIC: [8] Uninitialized string offset: 7 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+NOTIC: [8] Uninitialized string offset: 5 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+NOTIC: [8] Uninitialized string offset: 6 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+NOTIC: [8] Uninitialized string offset: 7 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+
+[ 2015-08-24T22:36:27+08:00 ] 127.0.0.1 /index.php/Home/Index/ajaxChkLogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `sh_article_cat` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_article_cat`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_article` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=3 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=2 )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_buttons` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_buttons`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_shop_config` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_shop_config`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_category` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=0 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=45 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=46 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=50 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=51 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=44 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=47 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=53 )  [ RunTime:0.0000s ]
+NOTIC: [8] Array to string conversion D:\phpStudy\WWW\www.jd.com\Application\Layout\Controller\LayoutController.class.php 第 36 行.
+SQL: SHOW COLUMNS FROM `sh_member` [ RunTime:0.0156s ]
+NOTIC: [8] Uninitialized string offset: 5 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+NOTIC: [8] Uninitialized string offset: 6 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+NOTIC: [8] Uninitialized string offset: 7 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+NOTIC: [8] Uninitialized string offset: 5 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+NOTIC: [8] Uninitialized string offset: 6 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+NOTIC: [8] Uninitialized string offset: 7 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+
+[ 2015-08-24T22:36:31+08:00 ] 127.0.0.1 /index.php/Home/Index/ajaxChkLogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `sh_article_cat` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_article_cat`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_article` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=3 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=2 )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_buttons` [ RunTime:0.0313s ]
+SQL: SELECT * FROM `sh_buttons`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_shop_config` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_shop_config`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_category` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=0 )  [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=45 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=46 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=50 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=51 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=44 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=47 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=53 )  [ RunTime:0.0000s ]
+NOTIC: [8] Array to string conversion D:\phpStudy\WWW\www.jd.com\Application\Layout\Controller\LayoutController.class.php 第 36 行.
+SQL: SHOW COLUMNS FROM `sh_member` [ RunTime:0.0000s ]
+NOTIC: [8] Uninitialized string offset: 5 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+NOTIC: [8] Uninitialized string offset: 6 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+NOTIC: [8] Uninitialized string offset: 7 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+NOTIC: [8] Uninitialized string offset: 5 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+NOTIC: [8] Uninitialized string offset: 6 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+NOTIC: [8] Uninitialized string offset: 7 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+
+[ 2015-08-24T22:37:28+08:00 ] 127.0.0.1 /index.php/Home/Index/ajaxChkLogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `sh_article_cat` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_article_cat`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_article` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=3 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=2 )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_buttons` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_buttons`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_shop_config` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_shop_config`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_category` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=0 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=45 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=46 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=50 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=51 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=44 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=47 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=53 )  [ RunTime:0.0000s ]
+NOTIC: [8] Array to string conversion D:\phpStudy\WWW\www.jd.com\Application\Layout\Controller\LayoutController.class.php 第 36 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-08-24T22:37:42+08:00 ] 127.0.0.1 /index.php/Home/Index/ajaxChkLogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015625s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015625s ]
+SQL: SHOW COLUMNS FROM `sh_article_cat` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_article_cat`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_article` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=3 )  [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=2 )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_buttons` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_buttons`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_shop_config` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_shop_config`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_category` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=0 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=45 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=46 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=50 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=51 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=44 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=47 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=53 )  [ RunTime:0.0000s ]
+NOTIC: [8] Array to string conversion D:\phpStudy\WWW\www.jd.com\Application\Layout\Controller\LayoutController.class.php 第 36 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-08-24T22:37:53+08:00 ] 127.0.0.1 /index.php/Home/Index/ajaxChkLogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `sh_article_cat` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_article_cat`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_article` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=3 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=2 )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_buttons` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_buttons`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_shop_config` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_shop_config`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_category` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=0 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=45 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=46 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=50 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=51 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=44 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=47 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=53 )  [ RunTime:0.0000s ]
+NOTIC: [8] Array to string conversion D:\phpStudy\WWW\www.jd.com\Application\Layout\Controller\LayoutController.class.php 第 36 行.
+SQL: SHOW COLUMNS FROM `sh_member` [ RunTime:0.0156s ]
+NOTIC: [8] Uninitialized string offset: 5 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+NOTIC: [8] Uninitialized string offset: 6 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+NOTIC: [8] Uninitialized string offset: 7 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+NOTIC: [8] Uninitialized string offset: 5 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+NOTIC: [8] Uninitialized string offset: 6 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+NOTIC: [8] Uninitialized string offset: 7 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+
+[ 2015-08-24T22:37:57+08:00 ] 127.0.0.1 /index.php/Home/Index/ajaxChkLogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `sh_article_cat` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_article_cat`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_article` [ RunTime:0.0938s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=3 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=2 )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_buttons` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_buttons`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_shop_config` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_shop_config`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_category` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=0 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=45 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=46 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=50 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=51 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=44 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=47 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=53 )  [ RunTime:0.0000s ]
+NOTIC: [8] Array to string conversion D:\phpStudy\WWW\www.jd.com\Application\Layout\Controller\LayoutController.class.php 第 36 行.
+SQL: SHOW COLUMNS FROM `sh_member` [ RunTime:0.0156s ]
+NOTIC: [8] Uninitialized string offset: 5 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+NOTIC: [8] Uninitialized string offset: 6 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+NOTIC: [8] Uninitialized string offset: 7 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+NOTIC: [8] Uninitialized string offset: 5 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+NOTIC: [8] Uninitialized string offset: 6 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+NOTIC: [8] Uninitialized string offset: 7 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+
+[ 2015-08-24T22:38:49+08:00 ] 127.0.0.1 /index.php/Home/Index/ajaxChkLogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `sh_article_cat` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_article_cat`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_article` [ RunTime:0.0313s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=3 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=2 )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_buttons` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_buttons`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_shop_config` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_shop_config`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_category` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=0 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=45 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=46 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=50 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=51 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=44 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=47 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=53 )  [ RunTime:0.0000s ]
+NOTIC: [8] Array to string conversion D:\phpStudy\WWW\www.jd.com\Application\Layout\Controller\LayoutController.class.php 第 36 行.
+SQL: SHOW COLUMNS FROM `sh_member` [ RunTime:0.0313s ]
+NOTIC: [8] Uninitialized string offset: 5 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+NOTIC: [8] Uninitialized string offset: 6 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+NOTIC: [8] Uninitialized string offset: 7 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+NOTIC: [8] Uninitialized string offset: 5 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+NOTIC: [8] Uninitialized string offset: 6 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+NOTIC: [8] Uninitialized string offset: 7 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+
+[ 2015-08-24T22:38:57+08:00 ] 127.0.0.1 /index.php/Home/Index/ajaxChkLogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `sh_article_cat` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_article_cat`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_article` [ RunTime:0.0313s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=3 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=2 )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_buttons` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_buttons`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_shop_config` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_shop_config`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_category` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=0 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=45 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=46 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=50 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=51 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=44 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=47 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=53 )  [ RunTime:0.0000s ]
+NOTIC: [8] Array to string conversion D:\phpStudy\WWW\www.jd.com\Application\Layout\Controller\LayoutController.class.php 第 36 行.
+SQL: SHOW COLUMNS FROM `sh_member` [ RunTime:0.0156s ]
+NOTIC: [8] Uninitialized string offset: 5 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+NOTIC: [8] Uninitialized string offset: 6 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+NOTIC: [8] Uninitialized string offset: 7 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+NOTIC: [8] Uninitialized string offset: 5 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+NOTIC: [8] Uninitialized string offset: 6 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+NOTIC: [8] Uninitialized string offset: 7 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+
+[ 2015-08-24T22:40:30+08:00 ] 127.0.0.1 /index.php/Home/Index/ajaxChkLogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `sh_article_cat` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_article_cat`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_article` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=3 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=2 )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_buttons` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_buttons`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_shop_config` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_shop_config`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_category` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=0 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=45 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=46 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=50 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=51 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=44 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=47 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=53 )  [ RunTime:0.0000s ]
+NOTIC: [8] Array to string conversion D:\phpStudy\WWW\www.jd.com\Application\Layout\Controller\LayoutController.class.php 第 36 行.
+SQL: SHOW COLUMNS FROM `sh_member` [ RunTime:0.0156s ]
+NOTIC: [8] Uninitialized string offset: 5 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+NOTIC: [8] Uninitialized string offset: 6 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+NOTIC: [8] Uninitialized string offset: 7 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+NOTIC: [8] Uninitialized string offset: 5 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+NOTIC: [8] Uninitialized string offset: 6 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+NOTIC: [8] Uninitialized string offset: 7 D:\phpStudy\WWW\www.jd.com\ThinkPHP\Library\Think\Crypt\Driver\Des.class.php 第 192 行.
+SQL: SELECT * FROM `sh_member` WHERE ( username='sui' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: data_username D:\phpStudy\WWW\www.jd.com\Application\Home\Controller\IndexController.class.php 第 227 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015625s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015625s ]
+
+[ 2015-08-24T22:41:23+08:00 ] 127.0.0.1 /index.php/Home/Index/ajaxChkLogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `sh_article_cat` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_article_cat`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_article` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=3 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=2 )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_buttons` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_buttons`  [ RunTime:0.0156s ]
+SQL: SHOW COLUMNS FROM `sh_shop_config` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_shop_config`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_category` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=0 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=45 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=46 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=50 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=51 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=44 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=47 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=53 )  [ RunTime:0.0000s ]
+NOTIC: [8] Array to string conversion D:\phpStudy\WWW\www.jd.com\Application\Layout\Controller\LayoutController.class.php 第 36 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-08-24T22:41:45+08:00 ] 127.0.0.1 /index.php/Home/Index/ajaxChkLogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `sh_article_cat` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_article_cat`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_article` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=3 )  [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=2 )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_buttons` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_buttons`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_shop_config` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_shop_config`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_category` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=0 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=45 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=46 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=50 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=51 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=44 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=47 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=53 )  [ RunTime:0.0000s ]
+NOTIC: [8] Array to string conversion D:\phpStudy\WWW\www.jd.com\Application\Layout\Controller\LayoutController.class.php 第 36 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-08-24T22:41:55+08:00 ] 127.0.0.1 /index.php/Home/Index/ajaxChkLogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `sh_article_cat` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_article_cat`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_article` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=3 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=2 )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_buttons` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_buttons`  [ RunTime:0.0156s ]
+SQL: SHOW COLUMNS FROM `sh_shop_config` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_shop_config`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_category` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=0 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=45 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=46 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=50 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=51 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=44 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=47 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=53 )  [ RunTime:0.0000s ]
+NOTIC: [8] Array to string conversion D:\phpStudy\WWW\www.jd.com\Application\Layout\Controller\LayoutController.class.php 第 36 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-08-24T22:41:58+08:00 ] 127.0.0.1 /index.php/Home/Index/ajaxChkLogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `sh_article_cat` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_article_cat`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_article` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=3 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=2 )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_buttons` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_buttons`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_shop_config` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_shop_config`  [ RunTime:0.0156s ]
+SQL: SHOW COLUMNS FROM `sh_category` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=0 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=45 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=46 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=50 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=51 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=44 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=47 )  [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=53 )  [ RunTime:0.0000s ]
+NOTIC: [8] Array to string conversion D:\phpStudy\WWW\www.jd.com\Application\Layout\Controller\LayoutController.class.php 第 36 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-08-24T22:42:01+08:00 ] 127.0.0.1 /index.php/Home/Index/ajaxChkLogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `sh_article_cat` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_article_cat`  [ RunTime:0.0156s ]
+SQL: SHOW COLUMNS FROM `sh_article` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=3 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=2 )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_buttons` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_buttons`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_shop_config` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_shop_config`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_category` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=0 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=45 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=46 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=50 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=51 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=44 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=47 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=53 )  [ RunTime:0.0000s ]
+NOTIC: [8] Array to string conversion D:\phpStudy\WWW\www.jd.com\Application\Layout\Controller\LayoutController.class.php 第 36 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-08-24T22:42:06+08:00 ] 127.0.0.1 /index.php/Home/Index/ajaxChkLogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `sh_article_cat` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_article_cat`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_article` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=3 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=2 )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_buttons` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_buttons`  [ RunTime:0.0156s ]
+SQL: SHOW COLUMNS FROM `sh_shop_config` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_shop_config`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_category` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=0 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=45 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=46 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=50 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=51 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=44 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=47 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=53 )  [ RunTime:0.0000s ]
+NOTIC: [8] Array to string conversion D:\phpStudy\WWW\www.jd.com\Application\Layout\Controller\LayoutController.class.php 第 36 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-08-24T22:42:13+08:00 ] 127.0.0.1 /index.php/Home/Index/ajaxChkLogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `sh_article_cat` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_article_cat`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_article` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=3 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=2 )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_buttons` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_buttons`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_shop_config` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_shop_config`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_category` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=0 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=45 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=46 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=50 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=51 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=44 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=47 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=53 )  [ RunTime:0.0000s ]
+NOTIC: [8] Array to string conversion D:\phpStudy\WWW\www.jd.com\Application\Layout\Controller\LayoutController.class.php 第 36 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-08-24T22:45:11+08:00 ] 127.0.0.1 /index.php/Home/Index/ajaxChkLogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `sh_article_cat` [ RunTime:0.0313s ]
+SQL: SELECT * FROM `sh_article_cat`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_article` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=3 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=2 )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_buttons` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_buttons`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_shop_config` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_shop_config`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_category` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=0 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=45 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=46 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=50 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=51 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=44 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=47 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=53 )  [ RunTime:0.0000s ]
+NOTIC: [8] Array to string conversion D:\phpStudy\WWW\www.jd.com\Application\Layout\Controller\LayoutController.class.php 第 36 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-08-24T22:49:46+08:00 ] 127.0.0.1 /index.php/Home/Index/ajaxChkLogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015625s ]
+SQL: SHOW COLUMNS FROM `sh_article_cat` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_article_cat`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_article` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=3 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=2 )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_buttons` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_buttons`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_shop_config` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_shop_config`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_category` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=0 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=45 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=46 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=50 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=51 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=44 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=47 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=53 )  [ RunTime:0.0000s ]
+NOTIC: [8] Array to string conversion D:\phpStudy\WWW\www.jd.com\Application\Layout\Controller\LayoutController.class.php 第 36 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-08-24T22:49:57+08:00 ] 127.0.0.1 /index.php/Home/Index/ajaxChkLogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `sh_article_cat` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_article_cat`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_article` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=3 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=2 )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_buttons` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_buttons`  [ RunTime:0.0156s ]
+SQL: SHOW COLUMNS FROM `sh_shop_config` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_shop_config`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_category` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=0 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=45 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=46 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=50 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=51 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=44 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=47 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=53 )  [ RunTime:0.0000s ]
+NOTIC: [8] Array to string conversion D:\phpStudy\WWW\www.jd.com\Application\Layout\Controller\LayoutController.class.php 第 36 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-08-24T22:50:10+08:00 ] 127.0.0.1 /index.php/Home/Index/ajaxChkLogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015625s ]
+SQL: SHOW COLUMNS FROM `sh_article_cat` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_article_cat`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_article` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=3 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=2 )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_buttons` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_buttons`  [ RunTime:0.0156s ]
+SQL: SHOW COLUMNS FROM `sh_shop_config` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_shop_config`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_category` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=0 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=45 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=46 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=50 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=51 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=44 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=47 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=53 )  [ RunTime:0.0000s ]
+NOTIC: [8] Array to string conversion D:\phpStudy\WWW\www.jd.com\Application\Layout\Controller\LayoutController.class.php 第 36 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-08-24T22:50:15+08:00 ] 127.0.0.1 /index.php/Home/Index/ajaxChkLogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `sh_article_cat` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_article_cat`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_article` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=3 )  [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_article` WHERE ( cat_id=2 )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_buttons` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_buttons`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_shop_config` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_shop_config`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sh_category` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=0 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=45 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=46 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=50 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=51 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=44 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=47 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sh_category` WHERE ( parent_id=53 )  [ RunTime:0.0000s ]
+NOTIC: [8] Array to string conversion D:\phpStudy\WWW\www.jd.com\Application\Layout\Controller\LayoutController.class.php 第 36 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+

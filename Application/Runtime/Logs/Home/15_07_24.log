@@ -1,0 +1,66 @@
+[ 2015-07-24T20:15:04+08:00 ] 127.0.0.1 /
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause'
+
+[ 2015-07-24T20:18:51+08:00 ] 127.0.0.1 /
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause'
+
+[ 2015-07-24T20:19:03+08:00 ] 127.0.0.1 /
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause'
+
+[ 2015-07-24T20:19:04+08:00 ] 127.0.0.1 /
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause'
+
+[ 2015-07-24T20:32:27+08:00 ] 127.0.0.1 /
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause'
+
+[ 2015-07-24T20:32:31+08:00 ] 127.0.0.1 /
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause'
+
+[ 2015-07-24T20:39:08+08:00 ] 127.0.0.1 /
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') )' at line 1
+
+[ 2015-07-24T21:04:18+08:00 ] 127.0.0.1 /
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') and id in(select goods_id from sh_recommend_item where rec_id=(select id from ' at line 1
+
+[ 2015-07-24T21:04:21+08:00 ] 127.0.0.1 /
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') and id in(select goods_id from sh_recommend_item where rec_id=(select id from ' at line 1
+
+[ 2015-07-24T21:06:10+08:00 ] 127.0.0.1 /
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') and id in(select goods_id from sh_recommend_item where rec_id=(select id from ' at line 1
+
+[ 2015-07-24T21:07:04+08:00 ] 127.0.0.1 /
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') and id in(select goods_id from sh_recommend_item where rec_id=(select id from ' at line 1
+
+[ 2015-07-24T21:43:04+08:00 ] 127.0.0.1 /
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') and id in(select goods_id from sh_recommend_item where rec_id=(select id from ' at line 1
+
+[ 2015-07-24T21:43:07+08:00 ] 127.0.0.1 /
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') and id in(select goods_id from sh_recommend_item where rec_id=(select id from ' at line 1
+
+[ 2015-07-24T21:43:37+08:00 ] 127.0.0.1 /
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') and id in(select goods_id from sh_recommend_item where rec_id=(select id from ' at line 1
+
+[ 2015-07-24T21:43:39+08:00 ] 127.0.0.1 /
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') and id in(select goods_id from sh_recommend_item where rec_id=(select id from ' at line 1
+
+[ 2015-07-24T21:45:01+08:00 ] 127.0.0.1 /
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') and id in(select goods_id from sh_recommend_item where rec_id=(select id from ' at line 1
+
+[ 2015-07-24T21:45:38+08:00 ] 127.0.0.1 /
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') and id in(select goods_id from sh_recommend_item where rec_id=(select id from ' at line 1
+
+[ 2015-07-24T21:45:39+08:00 ] 127.0.0.1 /
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') and id in(select goods_id from sh_recommend_item where rec_id=(select id from ' at line 1
+
+[ 2015-07-24T21:51:59+08:00 ] 127.0.0.1 /
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') and id in(select goods_id from sh_recommend_item where rec_id=(select id from ' at line 1
+
+[ 2015-07-24T21:54:01+08:00 ] 127.0.0.1 /
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') and id in(select goods_id from sh_recommend_item where rec_id=(select id from ' at line 1
+
+[ 2015-07-24T21:54:02+08:00 ] 127.0.0.1 /
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') and id in(select goods_id from sh_recommend_item where rec_id=(select id from ' at line 1
+
+[ 2015-07-24T21:54:34+08:00 ] 127.0.0.1 /
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') )' at line 1
+
